@@ -2,13 +2,16 @@
 
 ## Comandos de uso geral da CLI
 
-- Criar pasta: mkdir nomepasta
-- Listar conteúdo: dir
-- Limpar a tela: cls
-- Entrar na pasta: cd nomepasta
+- Criar pasta: **mkdir nomepasta**
+- Listar conteúdo: **dir**
+- Limpar a tela: **cls**
+- Entrar na pasta: **cd nomepasta**
 
 ## Comandos principais do git
 
-Inicializar um repositório (executado dentro da pasta): **git init**
+Configurar email/usuário: `git config user.name` e `git config user.email`.
 
-Vizualizar status atual do repositório: **git status**
+Inicializar um repositório (executado dentro da pasta): `git init`.
+
+Vizualizar status atual do repositório: `git status`.
+
