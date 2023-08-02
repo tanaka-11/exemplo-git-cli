@@ -17,7 +17,7 @@
 
 **Inicializar um repositório (executado dentro da pasta):** `git init`.
 
-**Renomear a branch de ***master*** para ***main*** **: `git branch nome-branch-atual (master) novo-nome-branch (main)`.
+**Renomear a branch de ***master*** para ***main*****: `git branch nome-branch-atual (master) novo-nome-branch (main)`.
 
 **Vizualizar status atual do repositório:** `git status`.
 
