@@ -19,7 +19,7 @@ Inicializar um repositório (executado dentro da pasta): `git init`.
 
 Vizualizar status atual do repositório:`git status`.
 
-Adicionar (Tornar arquivo rastreável) ao monitoramento do git: `git add nomearquivo` para uso de um unico arquivo e `git add .` para adicionar todos arquvios.
+Adicionar (Tornar arquivo rastreável) ao monitoramento do git: `git add nomearquivo` para uso de **um unico arquivo** e `git add .` para adicionar **todos** arquvios.
 
 Fazer commit das alterações: `git commit -m "sua mensagem sobre a alteração"`.
 
