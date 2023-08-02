@@ -15,8 +15,6 @@ Mudar email/usuário de forma global: `git config --global user.name "Seu nome"`
 
 Configurar email/usuário: `git config user.name` e `git config user.email`.
 
----
-
 Inicializar um repositório (executado dentro da pasta): `git init`.
 
 Vizualizar status atual do repositório:`git status`.
