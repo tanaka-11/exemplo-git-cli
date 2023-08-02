@@ -17,11 +17,15 @@ Configurar email/usuário: `git config user.name` e `git config user.email`.
 
 Inicializar um repositório (executado dentro da pasta): `git init`.
 
+Renomear a branch de master para main: `git branch nome-branch-atual (master) novo-nome-branch (main)`
+
 Vizualizar status atual do repositório:`git status`.
 
 Adicionar (Tornar arquivo rastreável) ao monitoramento do git: `git add nomearquivo` para uso de **um unico arquivo** e `git add .` para adicionar **todos** arquvios.
 
 Fazer commit das alterações: `git commit -m "sua mensagem sobre a alteração"`.
+
+Adicionar/conectar o repositório remoto ao local: `git remote add origin endereço-do-repositório.git`
 
 
 
