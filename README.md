@@ -11,3 +11,4 @@
 
 Inicializar um repositório (executado dentro da pasta): **git init**
 
+Vizualizar status atual do repositório: **git status**
