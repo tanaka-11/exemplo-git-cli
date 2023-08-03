@@ -27,7 +27,7 @@
 
 **Enviar mudanças do repositório local para o GitHub (Push):** `git push origin main`.
 
-**Enviar mudanças do repositório local ao GitHub (Pull)**: `git pull origin main`.
+**Enviar mudanças do Github ao repositório local (Pull)**: `git pull origin main`.
 
 **Adicionar/conectar o repositório remoto ao local:**  `git remote add origin endereço-do-repositório.git`.
 
