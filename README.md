@@ -25,7 +25,7 @@
 
 **Fazer commit das alterações:** `git commit -m "sua mensagem sobre a alteração"`.
 
-**Enviar mudanças para o GitHub (Push):** `git push origin main`.
+**Enviar mudanças do repositório local para o GitHub (Push):** `git push origin main`.
 
 **Enviar mudanças do repositório local ao GitHub (Pull)**: `git pull origin main`.
 
